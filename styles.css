@@ -298,7 +298,7 @@ body, header, nav, main, footer, img, h1, ul, section, aside, figure, figcaption
     }
     
     nav li a {
-    padding: ;
+    padding: none ;
     display: block;
     color: #fff;
     text-align: center;

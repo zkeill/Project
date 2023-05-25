@@ -1,20 +1,29 @@
 body {
-    background-color:#ffff;
+    background-color:white;
 }
 
 h1  {
-    color:  #6666f6;
+    color:blue;
     font-family: 'Fjalla One', sans-serif;
-    text-shadow: 3px 3px 3px #ababab;
+    text-shadow: 3px 3px 3px #ffffff;
+    text-align: center;
     font-size: 60px;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: red;
+    border-style: outset;
+    padding: 5px;
 }
 
 p   {
     color:  #6666ff;
     font-family: 'Fjalla One', sans-serif;
     font-size: 30px;
+    border-style: ridge;
+    border-color: black;
+    padding: 5px;
 }
 
 h2 {
-    color: red;
+    color: black;
 }

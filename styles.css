@@ -6,11 +6,15 @@ h1  {
     color:  #6666f6;
     font-family: 'Fjalla One', sans-serif;
     text-shadow: 3px 3px 3px #ababab;
-    font-size: large;
+    font-size: 60px;
 }
 
 p   {
     color:  #6666ff;
     font-family: 'Fjalla One', sans-serif;
-    font-size: medium;
+    font-size: 30px;
+}
+
+h2 {
+    color: red;
 }

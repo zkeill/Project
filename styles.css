@@ -1,16 +1,16 @@
 body {
-    background-color:#0000ff;
+    background-color:#ffff;
 }
 
 h1  {
-    color: white;
+    color:  #6666f6;
     font-family: 'Fjalla One', sans-serif;
     text-shadow: 3px 3px 3px #ababab;
     font-size: large;
 }
 
 p   {
-    color: white;
+    color:  #6666ff;
     font-family: 'Fjalla One', sans-serif;
     font-size: medium;
 }

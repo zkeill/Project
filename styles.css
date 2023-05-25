@@ -6,10 +6,11 @@ h1  {
     color: white;
     font-family: 'Fjalla One', sans-serif;
     text-shadow: 3px 3px 3px #ababab;
-    font-size: 30px;
+    font-size: large;
 }
 
 p   {
     color: white;
     font-family: 'Fjalla One', sans-serif;
+    font-size: medium;
 }

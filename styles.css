@@ -1,13 +1,10 @@
-title {
-    font-family: "fjalla one", sans-serif;
-}
-
 body {
     background-color:#0000ff;
 }
 
 h1  {
     color: white;
+    font-family: "fjalla one", sans-serif;
 }
 
 p   {

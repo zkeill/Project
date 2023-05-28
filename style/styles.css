@@ -26,6 +26,7 @@ p   {
 
 h2 {
     color: black;
+    font-family: 'Fjalla One', sans-serif;
     border-style: ridge;
     border-radius: 10px;
     border-color: aqua;
@@ -35,5 +36,5 @@ h2 {
 
 #p2 {
     color: black;
-    border-radius: 60px;
+    border-radius: 10px;
 }

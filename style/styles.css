@@ -1,22 +1,22 @@
 body {
-    background-color:black;
+    background-color:aqua;
 }
 
 h1  {
-    color:blue;
+    color:black;
     font-family: 'Fjalla One', sans-serif;
     text-shadow: 3px 3px 3px #ffffff;
     text-align: center;
     font-size: 60px;
     border-width: 5px;
     border-radius: 10px;
-    border-color: red;
+    border-color: black;
     border-style: outset;
     padding: 5px;
 }
 
 p   {
-    color:  #6666ff;
+    color:  black;
     font-family: 'Fjalla One', sans-serif;
     font-size: 30px;
     border-style: ridge;
@@ -26,4 +26,14 @@ p   {
 
 h2 {
     color: black;
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: aqua;
+    text-align: center;
+    font-size: 60px;
+}
+
+#p2 {
+    color: black;
+    border-radius: 60px;
 }
